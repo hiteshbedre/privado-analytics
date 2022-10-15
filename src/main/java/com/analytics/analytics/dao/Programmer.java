@@ -1,6 +1,6 @@
 public class Programmers implements Workers{
     int id;
-    String nickname;
+    String nicknamee;
     int salary;
     int bonusSalary;
     double KPIValue;
